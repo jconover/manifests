@@ -15,4 +15,4 @@ node default {
   include sudo
 }
 
-notify {"this is a test":}
+#notify {"this is a test":}
