@@ -1,3 +1,3 @@
 node 'mailtest' inherits 'default' {
-  #include postfix
+  include postfix
 }
